@@ -1,0 +1,9 @@
+{
+	"name": "arbol-raphael",
+	"version": "0.0.1",
+	"dependencies": {
+		"raphael": "*",
+		"requirejs": "*"
+	}
+}
+
